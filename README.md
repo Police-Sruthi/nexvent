@@ -4,14 +4,14 @@ A full-stack event management system built as a Capstone Project for the Deloitt
 
 ## Project Structure
 
-
-
+```
 nexvent/
 ├── backend/                 → Spring Boot 3 (Java 17) — REST APIs
 ├── frontend/                → React 18 — User Interface
 ├── notification-service/    → Node.js + Express — Notification Microservice
 ├── docker-compose.yml       → Docker configuration
 └── README.md
+```
 
 
 ## Tech Stack
