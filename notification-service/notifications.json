@@ -313,5 +313,35 @@
     "repliedAt": null,
     "repliedBy": null,
     "createdAt": "2026-03-28T07:11:59.740Z"
+  },
+  {
+    "id": 22,
+    "userId": 2,
+    "userName": "Police Sruthi",
+    "eventId": 2,
+    "eventTitle": "AI & Machine Learning Expo",
+    "subject": "Event Reminder",
+    "message": "🔔 Reminder: \"AI & Machine Learning Expo\" is happening in 2 day(s) on 2026-03-31! Venue: BITS Pilani Hyderabad Hall. Please make sure you have confirmed your attendance.",
+    "type": "reminder",
+    "isRead": false,
+    "reply": null,
+    "repliedAt": null,
+    "repliedBy": null,
+    "createdAt": "2026-03-29T06:38:19.113Z"
+  },
+  {
+    "id": 23,
+    "userId": 5,
+    "userName": "sruthi",
+    "eventId": 2,
+    "eventTitle": "AI & Machine Learning Expo",
+    "subject": "Event Reminder",
+    "message": "🔔 Reminder: \"AI & Machine Learning Expo\" is happening in 2 day(s) on 2026-03-31! Venue: BITS Pilani Hyderabad Hall. Please make sure you have confirmed your attendance.",
+    "type": "reminder",
+    "isRead": false,
+    "reply": null,
+    "repliedAt": null,
+    "repliedBy": null,
+    "createdAt": "2026-03-29T06:38:19.326Z"
   }
 ]
